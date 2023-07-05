@@ -39,5 +39,5 @@
     <img alt='Turbina Eolica' width='500px' src='./netflix_daily_top_10/assets/img/netflix_readme.jpg'/>
     <h4>Análise do títulos que mais ficaram em daily top 10</h4>
     <p>Clique no Botão e Veja o Código e Plots Gerados no Projeto:</p>
-    <a href=''><img alt='Button'width='200px' src='./netflix_daily_top_10/assets/img/image.png'/></a>
+    <a href='https://github.com/Brunonavarrooficial/Netflix_daily_Top10/blob/main/netflix_daily_top_10/daily_top_10.ipynb'><img alt='Button'width='200px' src='./netflix_daily_top_10/assets/img/image.png'/></a>
 </div>
